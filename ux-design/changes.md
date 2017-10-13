@@ -1,3 +1,9 @@
-// Your recommended changes go here
+Over the years, healthcare and doctors have become easier to access but harder to locate based on trust. After seeing many friends and colleagues have trouble locating doctors online based on reviews, I thought it would be interesting create a way for users to easily locate doctors based on recommendations done through friends and colleagues in one place. MyDoc is a community where you can choose the right doctor based on your trusted network’s recommendation and the detailed reviews by category.
 
-## Content (1-2 paragraphs)
+I first ran an interview with a handful of both men and women ages 20-60 to see their concerns using on-line doctor reviews on websites to find a good doctor and see their experiences. Many users felt that these places could not be trusted and did not feel comfortable during their experience. Based on this research I built a 2-3 potential personas, their behaviors and frustrations. The typical persona needed the doctor to take time to explain their diagnosis carefully, what the issues (if any) were, and make them feel comfortable in their office alongside their medical staff. I found that much of personal doctor visits had to do with personal emotions. 
+
+As I delved into the competitive analysis between other online web platforms that provided similar services such as Zocdoc and WebMD, I realized that there were many similarities including that of letting the patient make an appointment and offering a brief research on the doctors profile as well as in-network coverage but what they were missing was a more personal touch and connection. 
+
+I prioritized the essential features, crafted user flows, maps and moved to sketches and hi-fi wireframes to start testing again. Once I gathered enough information from their experience I worked on remolding the design work including the placement of certain features and added a couple of screens to create an interactive prototype. After the last cycle of user testing I learned that that user seemed pleased with the simple and clean interface as well as the quality of the work. They thought it was easy to navigate but that the content could be set out differently. I narrowed down the content to the most important aspects for the user experience and, again, improved the product. 
+
+
